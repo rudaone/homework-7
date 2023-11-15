@@ -151,7 +151,8 @@ header{
 }
 
 .design-container__button:hover{
-    opacity: 0.7;
+    opacity: 0.5;
+    transition: 0.5s;
 }
 
 footer{
